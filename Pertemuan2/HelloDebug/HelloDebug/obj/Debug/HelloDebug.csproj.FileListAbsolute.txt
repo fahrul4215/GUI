@@ -1,0 +1,6 @@
+E:\PROJECT\C#\HelloDebug\HelloDebug\bin\Debug\HelloDebug.exe.config
+E:\PROJECT\C#\HelloDebug\HelloDebug\bin\Debug\HelloDebug.exe
+E:\PROJECT\C#\HelloDebug\HelloDebug\bin\Debug\HelloDebug.pdb
+E:\PROJECT\C#\HelloDebug\HelloDebug\obj\Debug\HelloDebug.exe
+E:\PROJECT\C#\HelloDebug\HelloDebug\obj\Debug\HelloDebug.pdb
+E:\PROJECT\C#\HelloDebug\HelloDebug\obj\Debug\HelloDebug.csprojResolveAssemblyReference.cache

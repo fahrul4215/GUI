@@ -1,0 +1,6 @@
+E:\PROJECT\C#\TugasPraktikum1\TugasPraktikum1\bin\Debug\TugasPraktikum1.exe.config
+E:\PROJECT\C#\TugasPraktikum1\TugasPraktikum1\obj\Debug\TugasPraktikum1.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\TugasPraktikum1\TugasPraktikum1\bin\Debug\TugasPraktikum1.exe
+E:\PROJECT\C#\TugasPraktikum1\TugasPraktikum1\bin\Debug\TugasPraktikum1.pdb
+E:\PROJECT\C#\TugasPraktikum1\TugasPraktikum1\obj\Debug\TugasPraktikum1.exe
+E:\PROJECT\C#\TugasPraktikum1\TugasPraktikum1\obj\Debug\TugasPraktikum1.pdb

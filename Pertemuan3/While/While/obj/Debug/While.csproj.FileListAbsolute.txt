@@ -1,0 +1,5 @@
+E:\PROJECT\C#\Pertemuan3\While\While\bin\Debug\While.exe.config
+E:\PROJECT\C#\Pertemuan3\While\While\bin\Debug\While.exe
+E:\PROJECT\C#\Pertemuan3\While\While\bin\Debug\While.pdb
+E:\PROJECT\C#\Pertemuan3\While\While\obj\Debug\While.exe
+E:\PROJECT\C#\Pertemuan3\While\While\obj\Debug\While.pdb

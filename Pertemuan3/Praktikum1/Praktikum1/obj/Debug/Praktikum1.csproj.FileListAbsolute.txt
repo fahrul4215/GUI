@@ -1,0 +1,6 @@
+E:\PROJECT\C#\Pertemuan3\Praktikum1\Praktikum1\bin\Debug\Praktikum1.exe.config
+E:\PROJECT\C#\Pertemuan3\Praktikum1\Praktikum1\bin\Debug\Praktikum1.exe
+E:\PROJECT\C#\Pertemuan3\Praktikum1\Praktikum1\bin\Debug\Praktikum1.pdb
+E:\PROJECT\C#\Pertemuan3\Praktikum1\Praktikum1\obj\Debug\Praktikum1.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\Pertemuan3\Praktikum1\Praktikum1\obj\Debug\Praktikum1.exe
+E:\PROJECT\C#\Pertemuan3\Praktikum1\Praktikum1\obj\Debug\Praktikum1.pdb

@@ -1,0 +1,5 @@
+E:\PROJECT\C#\Pertemuan3\Switch-Case\Switch-Case\bin\Debug\Switch-Case.exe.config
+E:\PROJECT\C#\Pertemuan3\Switch-Case\Switch-Case\bin\Debug\Switch-Case.exe
+E:\PROJECT\C#\Pertemuan3\Switch-Case\Switch-Case\bin\Debug\Switch-Case.pdb
+E:\PROJECT\C#\Pertemuan3\Switch-Case\Switch-Case\obj\Debug\Switch-Case.exe
+E:\PROJECT\C#\Pertemuan3\Switch-Case\Switch-Case\obj\Debug\Switch-Case.pdb

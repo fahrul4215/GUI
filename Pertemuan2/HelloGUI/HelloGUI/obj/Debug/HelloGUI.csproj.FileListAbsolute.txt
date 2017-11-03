@@ -1,0 +1,9 @@
+E:\PROJECT\C#\HelloGUI\HelloGUI\bin\Debug\HelloGUI.exe.config
+E:\PROJECT\C#\HelloGUI\HelloGUI\bin\Debug\HelloGUI.exe
+E:\PROJECT\C#\HelloGUI\HelloGUI\bin\Debug\HelloGUI.pdb
+E:\PROJECT\C#\HelloGUI\HelloGUI\obj\Debug\HelloGUI.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\HelloGUI\HelloGUI\obj\Debug\HelloGUI.Form1.resources
+E:\PROJECT\C#\HelloGUI\HelloGUI\obj\Debug\HelloGUI.Properties.Resources.resources
+E:\PROJECT\C#\HelloGUI\HelloGUI\obj\Debug\HelloGUI.csproj.GenerateResource.Cache
+E:\PROJECT\C#\HelloGUI\HelloGUI\obj\Debug\HelloGUI.exe
+E:\PROJECT\C#\HelloGUI\HelloGUI\obj\Debug\HelloGUI.pdb

@@ -1,0 +1,6 @@
+E:\PROJECT\C#\ProjectConsole\ProjectConsole\bin\Debug\ProjectConsole.exe.config
+E:\PROJECT\C#\ProjectConsole\ProjectConsole\bin\Debug\ProjectConsole.exe
+E:\PROJECT\C#\ProjectConsole\ProjectConsole\bin\Debug\ProjectConsole.pdb
+E:\PROJECT\C#\ProjectConsole\ProjectConsole\obj\Debug\ProjectConsole.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\ProjectConsole\ProjectConsole\obj\Debug\ProjectConsole.exe
+E:\PROJECT\C#\ProjectConsole\ProjectConsole\obj\Debug\ProjectConsole.pdb

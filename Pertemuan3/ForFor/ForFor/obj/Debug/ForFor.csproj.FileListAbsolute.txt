@@ -1,0 +1,5 @@
+E:\PROJECT\C#\Pertemuan3\ForFor\ForFor\bin\Debug\ForFor.exe.config
+E:\PROJECT\C#\Pertemuan3\ForFor\ForFor\bin\Debug\ForFor.exe
+E:\PROJECT\C#\Pertemuan3\ForFor\ForFor\bin\Debug\ForFor.pdb
+E:\PROJECT\C#\Pertemuan3\ForFor\ForFor\obj\Debug\ForFor.exe
+E:\PROJECT\C#\Pertemuan3\ForFor\ForFor\obj\Debug\ForFor.pdb
