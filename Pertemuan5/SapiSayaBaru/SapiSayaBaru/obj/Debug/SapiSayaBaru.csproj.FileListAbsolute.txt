@@ -1,0 +1,6 @@
+E:\PROJECT\C#\Pertemuan5\SapiSayaBaru\SapiSayaBaru\bin\Debug\SapiSayaBaru.exe.config
+E:\PROJECT\C#\Pertemuan5\SapiSayaBaru\SapiSayaBaru\obj\Debug\SapiSayaBaru.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\Pertemuan5\SapiSayaBaru\SapiSayaBaru\bin\Debug\SapiSayaBaru.exe
+E:\PROJECT\C#\Pertemuan5\SapiSayaBaru\SapiSayaBaru\bin\Debug\SapiSayaBaru.pdb
+E:\PROJECT\C#\Pertemuan5\SapiSayaBaru\SapiSayaBaru\obj\Debug\SapiSayaBaru.exe
+E:\PROJECT\C#\Pertemuan5\SapiSayaBaru\SapiSayaBaru\obj\Debug\SapiSayaBaru.pdb

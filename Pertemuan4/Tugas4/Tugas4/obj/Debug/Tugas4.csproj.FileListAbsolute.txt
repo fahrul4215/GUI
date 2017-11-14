@@ -1,0 +1,6 @@
+E:\PROJECT\C#\Pertemuan4\Tugas4\Tugas4\bin\Debug\Tugas4.exe.config
+E:\PROJECT\C#\Pertemuan4\Tugas4\Tugas4\obj\Debug\Tugas4.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\Pertemuan4\Tugas4\Tugas4\bin\Debug\Tugas4.exe
+E:\PROJECT\C#\Pertemuan4\Tugas4\Tugas4\bin\Debug\Tugas4.pdb
+E:\PROJECT\C#\Pertemuan4\Tugas4\Tugas4\obj\Debug\Tugas4.exe
+E:\PROJECT\C#\Pertemuan4\Tugas4\Tugas4\obj\Debug\Tugas4.pdb

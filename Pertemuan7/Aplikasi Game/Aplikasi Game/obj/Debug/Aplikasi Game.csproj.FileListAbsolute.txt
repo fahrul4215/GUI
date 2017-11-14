@@ -1,0 +1,6 @@
+E:\PROJECT\C#\Pertemuan7\Aplikasi Game\Aplikasi Game\bin\Debug\Aplikasi Game.exe.config
+E:\PROJECT\C#\Pertemuan7\Aplikasi Game\Aplikasi Game\bin\Debug\Aplikasi Game.exe
+E:\PROJECT\C#\Pertemuan7\Aplikasi Game\Aplikasi Game\bin\Debug\Aplikasi Game.pdb
+E:\PROJECT\C#\Pertemuan7\Aplikasi Game\Aplikasi Game\obj\Debug\Aplikasi Game.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\Pertemuan7\Aplikasi Game\Aplikasi Game\obj\Debug\Aplikasi Game.exe
+E:\PROJECT\C#\Pertemuan7\Aplikasi Game\Aplikasi Game\obj\Debug\Aplikasi Game.pdb

@@ -1,0 +1,15 @@
+E:\PROJECT\C#\Pertemuan8\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe.config
+E:\PROJECT\C#\Pertemuan8\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\Pertemuan8\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe
+E:\PROJECT\C#\Pertemuan8\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.pdb
+E:\PROJECT\C#\Pertemuan8\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Interop.WMPLib.dll
+E:\PROJECT\C#\Pertemuan8\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+E:\PROJECT\C#\Pertemuan8\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\Interop.WMPLib.dll
+E:\PROJECT\C#\Pertemuan8\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+E:\PROJECT\C#\Pertemuan8\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.ResolveComReference.cache
+E:\PROJECT\C#\Pertemuan8\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.Form1.resources
+E:\PROJECT\C#\Pertemuan8\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.Properties.Resources.resources
+E:\PROJECT\C#\Pertemuan8\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.GenerateResource.Cache
+E:\PROJECT\C#\Pertemuan8\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.CoreCompileInputs.cache
+E:\PROJECT\C#\Pertemuan8\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.exe
+E:\PROJECT\C#\Pertemuan8\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.pdb

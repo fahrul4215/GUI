@@ -1,0 +1,5 @@
+E:\PROJECT\C#\Pertemuan4\Tugas2\Tugas2\bin\Debug\Tugas2.exe.config
+E:\PROJECT\C#\Pertemuan4\Tugas2\Tugas2\bin\Debug\Tugas2.exe
+E:\PROJECT\C#\Pertemuan4\Tugas2\Tugas2\bin\Debug\Tugas2.pdb
+E:\PROJECT\C#\Pertemuan4\Tugas2\Tugas2\obj\Debug\Tugas2.exe
+E:\PROJECT\C#\Pertemuan4\Tugas2\Tugas2\obj\Debug\Tugas2.pdb

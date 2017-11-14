@@ -1,0 +1,6 @@
+E:\PROJECT\C#\Pertemuan5\Property\Property\bin\Debug\Property.exe.config
+E:\PROJECT\C#\Pertemuan5\Property\Property\obj\Debug\Property.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\Pertemuan5\Property\Property\bin\Debug\Property.exe
+E:\PROJECT\C#\Pertemuan5\Property\Property\bin\Debug\Property.pdb
+E:\PROJECT\C#\Pertemuan5\Property\Property\obj\Debug\Property.exe
+E:\PROJECT\C#\Pertemuan5\Property\Property\obj\Debug\Property.pdb

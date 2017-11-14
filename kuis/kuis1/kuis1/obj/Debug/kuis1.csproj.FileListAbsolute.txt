@@ -1,0 +1,9 @@
+E:\PROJECT\C#\kuis\kuis1\kuis1\bin\Debug\kuis1.exe.config
+E:\PROJECT\C#\kuis\kuis1\kuis1\obj\Debug\kuis1.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\kuis\kuis1\kuis1\obj\Debug\kuis1.Form1.resources
+E:\PROJECT\C#\kuis\kuis1\kuis1\obj\Debug\kuis1.Properties.Resources.resources
+E:\PROJECT\C#\kuis\kuis1\kuis1\obj\Debug\kuis1.csproj.GenerateResource.Cache
+E:\PROJECT\C#\kuis\kuis1\kuis1\bin\Debug\kuis1.exe
+E:\PROJECT\C#\kuis\kuis1\kuis1\bin\Debug\kuis1.pdb
+E:\PROJECT\C#\kuis\kuis1\kuis1\obj\Debug\kuis1.exe
+E:\PROJECT\C#\kuis\kuis1\kuis1\obj\Debug\kuis1.pdb

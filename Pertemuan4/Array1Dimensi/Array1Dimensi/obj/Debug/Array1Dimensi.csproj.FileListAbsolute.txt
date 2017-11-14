@@ -1,0 +1,6 @@
+E:\PROJECT\C#\Pertemuan4\Array1Dimensi\Array1Dimensi\bin\Debug\Array1Dimensi.exe.config
+E:\PROJECT\C#\Pertemuan4\Array1Dimensi\Array1Dimensi\bin\Debug\Array1Dimensi.exe
+E:\PROJECT\C#\Pertemuan4\Array1Dimensi\Array1Dimensi\bin\Debug\Array1Dimensi.pdb
+E:\PROJECT\C#\Pertemuan4\Array1Dimensi\Array1Dimensi\obj\Debug\Array1Dimensi.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\Pertemuan4\Array1Dimensi\Array1Dimensi\obj\Debug\Array1Dimensi.exe
+E:\PROJECT\C#\Pertemuan4\Array1Dimensi\Array1Dimensi\obj\Debug\Array1Dimensi.pdb

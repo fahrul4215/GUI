@@ -1,0 +1,5 @@
+E:\PROJECT\C#\Pertemuan4\String\String\bin\Debug\String.exe.config
+E:\PROJECT\C#\Pertemuan4\String\String\bin\Debug\String.exe
+E:\PROJECT\C#\Pertemuan4\String\String\bin\Debug\String.pdb
+E:\PROJECT\C#\Pertemuan4\String\String\obj\Debug\String.exe
+E:\PROJECT\C#\Pertemuan4\String\String\obj\Debug\String.pdb

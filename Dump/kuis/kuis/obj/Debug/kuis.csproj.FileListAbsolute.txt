@@ -1,0 +1,12 @@
+E:\PROJECT\C#\Dump\kuis\kuis\bin\Debug\kuis.exe.config
+E:\PROJECT\C#\Dump\kuis\kuis\obj\Debug\kuis.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\Dump\kuis\kuis\obj\Debug\kuis.DaftarBuku.resources
+E:\PROJECT\C#\Dump\kuis\kuis\obj\Debug\kuis.Properties.Resources.resources
+E:\PROJECT\C#\Dump\kuis\kuis\obj\Debug\kuis.csproj.GenerateResource.Cache
+E:\PROJECT\C#\Dump\kuis\kuis\bin\Debug\kuis.exe
+E:\PROJECT\C#\Dump\kuis\kuis\bin\Debug\kuis.pdb
+E:\PROJECT\C#\Dump\kuis\kuis\obj\Debug\kuis.exe
+E:\PROJECT\C#\Dump\kuis\kuis\obj\Debug\kuis.pdb
+E:\PROJECT\C#\Dump\kuis\kuis\obj\Debug\kuis.Form1.resources
+E:\PROJECT\C#\Dump\kuis\kuis\obj\Debug\kuis.FormKategori.resources
+E:\PROJECT\C#\Dump\kuis\kuis\obj\Debug\kuis.Forms.resources

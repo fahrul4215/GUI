@@ -1,0 +1,5 @@
+E:\PROJECT\C#\Pertemuan4\Array2Dimensi\Array2Dimensi\bin\Debug\Array2Dimensi.exe.config
+E:\PROJECT\C#\Pertemuan4\Array2Dimensi\Array2Dimensi\bin\Debug\Array2Dimensi.exe
+E:\PROJECT\C#\Pertemuan4\Array2Dimensi\Array2Dimensi\bin\Debug\Array2Dimensi.pdb
+E:\PROJECT\C#\Pertemuan4\Array2Dimensi\Array2Dimensi\obj\Debug\Array2Dimensi.exe
+E:\PROJECT\C#\Pertemuan4\Array2Dimensi\Array2Dimensi\obj\Debug\Array2Dimensi.pdb

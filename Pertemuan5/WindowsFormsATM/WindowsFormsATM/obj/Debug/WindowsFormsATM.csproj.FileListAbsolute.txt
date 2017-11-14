@@ -1,0 +1,9 @@
+E:\PROJECT\C#\Pertemuan5\WindowsFormsATM\WindowsFormsATM\bin\Debug\WindowsFormsATM.exe.config
+E:\PROJECT\C#\Pertemuan5\WindowsFormsATM\WindowsFormsATM\bin\Debug\WindowsFormsATM.exe
+E:\PROJECT\C#\Pertemuan5\WindowsFormsATM\WindowsFormsATM\bin\Debug\WindowsFormsATM.pdb
+E:\PROJECT\C#\Pertemuan5\WindowsFormsATM\WindowsFormsATM\obj\Debug\WindowsFormsATM.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\Pertemuan5\WindowsFormsATM\WindowsFormsATM\obj\Debug\WindowsFormsATM.Form1.resources
+E:\PROJECT\C#\Pertemuan5\WindowsFormsATM\WindowsFormsATM\obj\Debug\WindowsFormsATM.Properties.Resources.resources
+E:\PROJECT\C#\Pertemuan5\WindowsFormsATM\WindowsFormsATM\obj\Debug\WindowsFormsATM.csproj.GenerateResource.Cache
+E:\PROJECT\C#\Pertemuan5\WindowsFormsATM\WindowsFormsATM\obj\Debug\WindowsFormsATM.exe
+E:\PROJECT\C#\Pertemuan5\WindowsFormsATM\WindowsFormsATM\obj\Debug\WindowsFormsATM.pdb

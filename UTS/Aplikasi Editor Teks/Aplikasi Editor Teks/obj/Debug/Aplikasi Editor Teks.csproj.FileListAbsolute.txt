@@ -1,0 +1,10 @@
+E:\PROJECT\C#\UTS\Aplikasi Editor Teks\Aplikasi Editor Teks\obj\Debug\Aplikasi Editor Teks.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\UTS\Aplikasi Editor Teks\Aplikasi Editor Teks\obj\Debug\Aplikasi_Editor_Teks.Form1.resources
+E:\PROJECT\C#\UTS\Aplikasi Editor Teks\Aplikasi Editor Teks\obj\Debug\Aplikasi_Editor_Teks.Properties.Resources.resources
+E:\PROJECT\C#\UTS\Aplikasi Editor Teks\Aplikasi Editor Teks\obj\Debug\Aplikasi Editor Teks.csproj.GenerateResource.Cache
+E:\PROJECT\C#\UTS\Aplikasi Editor Teks\Aplikasi Editor Teks\obj\Debug\Aplikasi Editor Teks.csproj.CoreCompileInputs.cache
+E:\PROJECT\C#\UTS\Aplikasi Editor Teks\Aplikasi Editor Teks\bin\Debug\Aplikasi Editor Teks.exe.config
+E:\PROJECT\C#\UTS\Aplikasi Editor Teks\Aplikasi Editor Teks\bin\Debug\Aplikasi Editor Teks.exe
+E:\PROJECT\C#\UTS\Aplikasi Editor Teks\Aplikasi Editor Teks\bin\Debug\Aplikasi Editor Teks.pdb
+E:\PROJECT\C#\UTS\Aplikasi Editor Teks\Aplikasi Editor Teks\obj\Debug\Aplikasi Editor Teks.exe
+E:\PROJECT\C#\UTS\Aplikasi Editor Teks\Aplikasi Editor Teks\obj\Debug\Aplikasi Editor Teks.pdb

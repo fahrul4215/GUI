@@ -1,0 +1,11 @@
+E:\PROJECT\C#\Pertemuan7\Praktikum\Praktikum\bin\Debug\Praktikum.exe.config
+E:\PROJECT\C#\Pertemuan7\Praktikum\Praktikum\bin\Debug\Praktikum.exe
+E:\PROJECT\C#\Pertemuan7\Praktikum\Praktikum\bin\Debug\Praktikum.pdb
+E:\PROJECT\C#\Pertemuan7\Praktikum\Praktikum\obj\Debug\Praktikum.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\Pertemuan7\Praktikum\Praktikum\obj\Debug\Praktikum.Form1.resources
+E:\PROJECT\C#\Pertemuan7\Praktikum\Praktikum\obj\Debug\Praktikum.Properties.Resources.resources
+E:\PROJECT\C#\Pertemuan7\Praktikum\Praktikum\obj\Debug\Praktikum.csproj.GenerateResource.Cache
+E:\PROJECT\C#\Pertemuan7\Praktikum\Praktikum\obj\Debug\Praktikum.exe
+E:\PROJECT\C#\Pertemuan7\Praktikum\Praktikum\obj\Debug\Praktikum.pdb
+E:\PROJECT\C#\Pertemuan7\Praktikum\Praktikum\obj\Debug\Praktikum.FormAgama.resources
+E:\PROJECT\C#\Pertemuan7\Praktikum\Praktikum\obj\Debug\Praktikum.FormMahasiswa.resources

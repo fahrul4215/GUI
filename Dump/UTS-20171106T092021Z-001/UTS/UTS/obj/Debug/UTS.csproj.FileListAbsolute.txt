@@ -1,0 +1,14 @@
+E:\KULIAH\Semester 3\Pemrogaman GUI\VS\UTS\UTS\bin\Debug\UTS.exe.config
+E:\PROJECT\C#\Dump\UTS-20171106T092021Z-001\UTS\UTS\obj\Debug\UTS.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\Dump\UTS-20171106T092021Z-001\UTS\UTS\obj\Debug\UTS.Daftar.resources
+E:\PROJECT\C#\Dump\UTS-20171106T092021Z-001\UTS\UTS\obj\Debug\UTS.Login.resources
+E:\PROJECT\C#\Dump\UTS-20171106T092021Z-001\UTS\UTS\obj\Debug\UTS.Properties.Resources.resources
+E:\PROJECT\C#\Dump\UTS-20171106T092021Z-001\UTS\UTS\obj\Debug\UTS.SaldoForm.resources
+E:\PROJECT\C#\Dump\UTS-20171106T092021Z-001\UTS\UTS\obj\Debug\UTS.Transaksi.resources
+E:\PROJECT\C#\Dump\UTS-20171106T092021Z-001\UTS\UTS\obj\Debug\UTS.csproj.GenerateResource.Cache
+E:\PROJECT\C#\Dump\UTS-20171106T092021Z-001\UTS\UTS\obj\Debug\UTS.csproj.CoreCompileInputs.cache
+E:\PROJECT\C#\Dump\UTS-20171106T092021Z-001\UTS\UTS\bin\Debug\UTS.exe.config
+E:\PROJECT\C#\Dump\UTS-20171106T092021Z-001\UTS\UTS\bin\Debug\UTS.exe
+E:\PROJECT\C#\Dump\UTS-20171106T092021Z-001\UTS\UTS\bin\Debug\UTS.pdb
+E:\PROJECT\C#\Dump\UTS-20171106T092021Z-001\UTS\UTS\obj\Debug\UTS.exe
+E:\PROJECT\C#\Dump\UTS-20171106T092021Z-001\UTS\UTS\obj\Debug\UTS.pdb

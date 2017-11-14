@@ -1,0 +1,15 @@
+E:\PROJECT\C#\Pertemuan8\WMP\WMP\WMP\bin\Debug\WMP.exe.config
+E:\PROJECT\C#\Pertemuan8\WMP\WMP\WMP\bin\Debug\WMP.exe
+E:\PROJECT\C#\Pertemuan8\WMP\WMP\WMP\bin\Debug\WMP.pdb
+E:\PROJECT\C#\Pertemuan8\WMP\WMP\WMP\bin\Debug\Interop.WMPLib.dll
+E:\PROJECT\C#\Pertemuan8\WMP\WMP\WMP\bin\Debug\AxInterop.WMPLib.dll
+E:\PROJECT\C#\Pertemuan8\WMP\WMP\WMP\obj\Debug\WMP.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\Pertemuan8\WMP\WMP\WMP\obj\Debug\Interop.WMPLib.dll
+E:\PROJECT\C#\Pertemuan8\WMP\WMP\WMP\obj\Debug\AxInterop.WMPLib.dll
+E:\PROJECT\C#\Pertemuan8\WMP\WMP\WMP\obj\Debug\WMP.csproj.ResolveComReference.cache
+E:\PROJECT\C#\Pertemuan8\WMP\WMP\WMP\obj\Debug\WMP.Form1.resources
+E:\PROJECT\C#\Pertemuan8\WMP\WMP\WMP\obj\Debug\WMP.Properties.Resources.resources
+E:\PROJECT\C#\Pertemuan8\WMP\WMP\WMP\obj\Debug\WMP.csproj.GenerateResource.Cache
+E:\PROJECT\C#\Pertemuan8\WMP\WMP\WMP\obj\Debug\WMP.csproj.CoreCompileInputs.cache
+E:\PROJECT\C#\Pertemuan8\WMP\WMP\WMP\obj\Debug\WMP.exe
+E:\PROJECT\C#\Pertemuan8\WMP\WMP\WMP\obj\Debug\WMP.pdb

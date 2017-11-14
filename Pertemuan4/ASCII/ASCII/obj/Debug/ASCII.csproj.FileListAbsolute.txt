@@ -1,0 +1,6 @@
+E:\PROJECT\C#\Pertemuan4\ASCII\ASCII\bin\Debug\ASCII.exe.config
+E:\PROJECT\C#\Pertemuan4\ASCII\ASCII\bin\Debug\ASCII.exe
+E:\PROJECT\C#\Pertemuan4\ASCII\ASCII\bin\Debug\ASCII.pdb
+E:\PROJECT\C#\Pertemuan4\ASCII\ASCII\obj\Debug\ASCII.exe
+E:\PROJECT\C#\Pertemuan4\ASCII\ASCII\obj\Debug\ASCII.pdb
+E:\PROJECT\C#\Pertemuan4\ASCII\ASCII\obj\Debug\ASCII.csprojResolveAssemblyReference.cache
